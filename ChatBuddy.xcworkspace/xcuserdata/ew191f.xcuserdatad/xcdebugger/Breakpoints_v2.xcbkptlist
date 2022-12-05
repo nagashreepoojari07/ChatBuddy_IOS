@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3E44447B-39A6-4EFB-899A-6767EDD0E083"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F228F78B-FA5B-44EB-AADC-A51575A14F34"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatBuddy/Controllers/RegisterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "RegisterViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F228F78B-FA5B-44EB-AADC-A51575A14F34 - 9fe2a11d2dde1f1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatBuddy.RegisterViewController.dateFormatter.getter : __C.NSDateFormatter"
+                  moduleName = "ChatBuddy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ew191f/Documents/IOS_Development_projects/ChatBuddy/ChatBuddy/Controllers/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  uuid = "F228F78B-FA5B-44EB-AADC-A51575A14F34 - c2398ebca77a88e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatBuddy.RegisterViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ChatBuddy.RegisterViewController"
+                  moduleName = "ChatBuddy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ew191f/Documents/IOS_Development_projects/ChatBuddy/ChatBuddy/Controllers/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "333">
+               </Location>
+               <Location
+                  uuid = "F228F78B-FA5B-44EB-AADC-A51575A14F34 - bc307abe65b34992"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatBuddy.RegisterViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ChatBuddy.RegisterViewController&gt;"
+                  moduleName = "ChatBuddy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ew191f/Documents/IOS_Development_projects/ChatBuddy/ChatBuddy/Controllers/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "290">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
